@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I’m 1410-3!
 
-<!--
-**1410-3/1410-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌟 **職業/専門分野**: 
+- 🎓 **学歴**: 武蔵工業大学 環境情報学部 環境情報学科 卒業
+- 🌍 **拠点**: 広島 or 神奈川, 日本
+- 💻 **興味のある分野**: 健康 | 脳科学
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **言語**: Ruby | Golang | HTML | CSS | JavaScript | TypeScript | C#
+- **ライブラリ・フレームワーク**: Rails | Vue | React | Django |.Net framework 
+- **ツール**: Git | Docker | VS Codeさん | Cursorさん
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1410-3&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+1. [**プロジェクト名**](リンク)  
+   プロジェクトの簡単な説明（例: チャットアプリ、機械学習モデル、ゲームなど）。
+
+2. [**プロジェクト名**](リンク)  
+   プロジェクトの簡単な説明。
+
+## 📫 Contact Me
+- **X**: [times_1410_3](https://x.com/times_1410_3)
+
+---
+
+## 💬 一言
+> 「[よろしくお願いいたします！| Best regards]」
