@@ -14,10 +14,6 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1410-3&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
-1. [**準備中**](リンク)  
-   あっ準備中です。
-
 ## 📫 Contact Me
 - **X**: [times_1410_3](https://x.com/times_1410_3)
 
