@@ -10,6 +10,7 @@
 - **言語**: Ruby | Golang | HTML | CSS | JavaScript | TypeScript | C#
 - **ライブラリ・フレームワーク**: Rails | Vue | React | Django |.Net framework 
 - **ツール**: Git | Docker | VS Codeさん | Cursorさん
+全部書ききるの大変なので、いったんこれだけ書いていますmm
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1410-3&show_icons=true&theme=radical)
