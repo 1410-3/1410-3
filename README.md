@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Tools
 いったん以下だけ書いていますmm
 - **言語**: Ruby | Golang | HTML | CSS | JavaScript | TypeScript | C#
-- **ライブラリ・フレームワーク**: Rails | Vue | React | Django |.Net framework 
+- **ライブラリ・フレームワーク**: Rails | Vue | React | Django | .Net framework 
 - **ツール**: Git | Docker | VS Codeさん | Cursorさん
 
 ## 📈 GitHub Stats
