@@ -15,7 +15,7 @@
 - **ツール**: Git | Docker 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1410-3&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1410-3&show_icons=true&theme=radical&&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1410-3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
